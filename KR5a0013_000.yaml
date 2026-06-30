@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5a0013/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 高上玉皇心印經上藥三品神與氣精恍恍惚惚杳杳冥冥存無守有頃㓨而成回風混合百日功靈默朝上帝一紀飛升知者易悟昧者難行履踐天光呼吸育清出玄入牝若亡若存綿綿不絶固蒂深根人各有精精合其神神合其氣氣合其真不得其真皆是强名神能入石神能飛形入水不溺入火不焚神依形生精依氣盈不凋不殘松柏青青三品一理妙不可聽其聚則有其散則零七竅相通竅竅光明聖日聖月照耀金庭一得永得自然身輕太和充溢骨散寒瓊得丹則靈不得則傾丹在身中非白非青誦之萬遍妙理自明高上玉皇心印經
+  hash: sha256:2fda439f36db375a732224482f146acf2b2d5dc4e479a538e2d0f900ba9f29c6
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5a0013_HFL_000-001a, image: hfl/0024/0024-168.png}
+metadata:
+  title: 高上玉皇心印經
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-28 23:34:57.204388'
+  source:
+    repository: kanripo
+    path: KR5a0013/KR5a0013_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:375b0f93a1c93f533376d33f252b41be65782f799a17d912e6712f311190efe0

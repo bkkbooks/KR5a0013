@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5a0013/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5a0013/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 高上玉皇心印經
+  date: '2015-08-28 23:34:57.204388'
+  source:
+    repository: kanripo
+    path: KR5a0013
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0013_000-HFL.yaml, hash: 'sha256:fc364be38ed2f6b7747ef051c4e90efee71b5214f971c21aae87f43e87de0986'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0013_000-HFL.markers.yaml, hash: 'sha256:2dee453a85db5659f32b946ec95f9303d53f7671e3d60d2eabae73e443117581'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0013_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 214
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:aa38ab359e02a4852ce7c0feafbca3388cb9024db753bc152348f3d5bc8ecf1b

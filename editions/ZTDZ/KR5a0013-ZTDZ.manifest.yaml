@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5a0013/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5a0013/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 高上玉皇心印經
+  date: '2015-08-28 23:34:57.204388'
+  source:
+    repository: kanripo
+    path: KR5a0013
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0013_000-ZTDZ.yaml, hash: 'sha256:8d2b81f43742f610ae748a0919cb077acdba35d7784fcf962c549edf9348e3e2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5a0013_000-ZTDZ.markers.yaml, hash: 'sha256:7147b97ba84c9489cb3e940cb4e1f901eaf814f19a03e6d395cfe432438a764c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5a0013_SJB_000-010748b
+    span:
+    - body
+    - 0
+    - 214
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:738464eed3a82889d7296e5a7245ccf861884cf9d0733a38362adfb8f0585807
